@@ -19,4 +19,8 @@
 .Emoji{
     display: flex;
     margin: 0 30%;
+    
 }
+.Emoji div{ 
+    margin: 0 20px;
+    font-size: 300px;}
